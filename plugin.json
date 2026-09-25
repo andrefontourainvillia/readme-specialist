@@ -1,0 +1,6 @@
+{
+	"$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+	"name": "readme-specialist",
+	"version": "1.0.0",
+	"description": "Expert at creating and maintaining high-quality README documentation"
+}
